@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu
 
 LABEL maintainer="Ben Mason <locutus@the-collective.net>"
 
